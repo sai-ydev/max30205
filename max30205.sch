@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.5.0">
+<eagle version="9.6.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
@@ -1600,45 +1600,47 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <sheets>
 <sheet>
 <plain>
-<text x="37.338" y="158.242" size="1.016" layer="94" font="vector" ratio="20">A0</text>
-<text x="37.338" y="156.21" size="1.016" layer="94" font="vector" ratio="20">A1</text>
-<text x="37.338" y="153.67" size="1.016" layer="94" font="vector" ratio="20">A2</text>
-<text x="37.338" y="151.13" size="1.016" layer="94" font="vector" ratio="20">A3</text>
-<text x="37.338" y="148.59" size="1.016" layer="94" font="vector" ratio="20">A4</text>
-<text x="37.338" y="145.796" size="1.016" layer="94" font="vector" ratio="20">A5</text>
-<text x="37.338" y="143.256" size="1.016" layer="94" font="vector" ratio="20">A6</text>
-<text x="92.964" y="143.51" size="1.016" layer="94" font="vector" ratio="20">A7</text>
-<text x="92.71" y="145.796" size="1.016" layer="94" font="vector" ratio="20">A8</text>
-<text x="92.456" y="148.336" size="1.016" layer="94" font="vector" ratio="20">A9</text>
-<text x="92.456" y="151.13" size="1.016" layer="94" font="vector" ratio="20">A10</text>
-<text x="92.202" y="158.496" size="1.016" layer="94" font="vector" ratio="20">5V</text>
-<text x="92.202" y="153.416" size="1.016" layer="94" font="vector" ratio="20">3V3</text>
-<text x="92.202" y="155.702" size="1.016" layer="94" font="vector" ratio="20">GND</text>
+<text x="24.638" y="143.002" size="1.016" layer="94" font="vector" ratio="20">A0</text>
+<text x="24.638" y="140.97" size="1.016" layer="94" font="vector" ratio="20">A1</text>
+<text x="24.638" y="138.43" size="1.016" layer="94" font="vector" ratio="20">A2</text>
+<text x="24.638" y="135.89" size="1.016" layer="94" font="vector" ratio="20">A3</text>
+<text x="24.638" y="133.35" size="1.016" layer="94" font="vector" ratio="20">A4</text>
+<text x="24.638" y="130.556" size="1.016" layer="94" font="vector" ratio="20">A5</text>
+<text x="24.638" y="128.016" size="1.016" layer="94" font="vector" ratio="20">A6</text>
+<text x="80.264" y="128.27" size="1.016" layer="94" font="vector" ratio="20">A7</text>
+<text x="80.01" y="130.556" size="1.016" layer="94" font="vector" ratio="20">A8</text>
+<text x="79.756" y="133.096" size="1.016" layer="94" font="vector" ratio="20">A9</text>
+<text x="79.756" y="135.89" size="1.016" layer="94" font="vector" ratio="20">A10</text>
+<text x="79.502" y="143.256" size="1.016" layer="94" font="vector" ratio="20">5V</text>
+<text x="79.502" y="138.176" size="1.016" layer="94" font="vector" ratio="20">3V3</text>
+<text x="79.502" y="140.462" size="1.016" layer="94" font="vector" ratio="20">GND</text>
+<text x="43.18" y="157.48" size="6.4516" layer="95" font="vector" ratio="20">Xiao</text>
+<text x="40.64" y="111.76" size="6.4516" layer="95" font="vector" ratio="20">MAX30205</text>
 </plain>
 <instances>
-<instance part="J5" gate="G$1" x="39.37" y="151.13" smashed="yes" rot="MR0">
-<attribute name="NAME" x="41.91" y="161.29" size="1.27" layer="95" ratio="12" rot="MR0"/>
+<instance part="J5" gate="G$1" x="26.67" y="135.89" smashed="yes" rot="MR0">
+<attribute name="NAME" x="29.21" y="146.05" size="1.27" layer="95" ratio="12" rot="MR0"/>
 </instance>
-<instance part="J6" gate="G$1" x="92.71" y="151.13" smashed="yes" rot="MR180">
-<attribute name="NAME" x="90.17" y="140.97" size="1.27" layer="95" ratio="12" rot="MR180"/>
+<instance part="J6" gate="G$1" x="80.01" y="135.89" smashed="yes" rot="MR180">
+<attribute name="NAME" x="77.47" y="125.73" size="1.27" layer="95" ratio="12" rot="MR180"/>
 </instance>
 <instance part="FRAME3" gate="G$1" x="0" y="0" smashed="yes">
 <attribute name="DRAWING_NAME" x="217.17" y="15.24" size="2.54" layer="94"/>
 <attribute name="LAST_DATE_TIME" x="217.17" y="10.16" size="2.286" layer="94"/>
 <attribute name="SHEET" x="230.505" y="5.08" size="2.54" layer="94"/>
 </instance>
-<instance part="GND3" gate="1" x="78.74" y="134.62" smashed="yes">
-<attribute name="VALUE" x="78.74" y="134.366" size="1.016" layer="96" font="vector" ratio="20" align="top-center"/>
+<instance part="GND3" gate="1" x="66.04" y="119.38" smashed="yes">
+<attribute name="VALUE" x="66.04" y="119.126" size="1.016" layer="96" font="vector" ratio="20" align="top-center"/>
 </instance>
 <instance part="U1" gate="A" x="43.18" y="78.74" smashed="yes">
 <attribute name="NAME" x="51.9176" y="86.5886" size="1.016" layer="95" font="vector" ratio="20" rot="SR0"/>
-<attribute name="VALUE" x="58.1406" y="87.8586" size="2.0828" layer="96" ratio="6" rot="SR0"/>
+<attribute name="VALUE" x="58.1406" y="87.8586" size="2.0828" layer="96" ratio="6" rot="SR0" display="off"/>
 </instance>
 <instance part="GND1" gate="1" x="86.36" y="53.34" smashed="yes">
 <attribute name="VALUE" x="86.36" y="53.086" size="1.016" layer="96" font="vector" ratio="20" align="top-center"/>
 </instance>
-<instance part="SUPPLY1" gate="G$1" x="76.2" y="169.672" smashed="yes">
-<attribute name="VALUE" x="76.2" y="172.466" size="1.016" layer="96" font="vector" ratio="20" align="bottom-center"/>
+<instance part="SUPPLY1" gate="G$1" x="63.5" y="154.432" smashed="yes">
+<attribute name="VALUE" x="63.5" y="157.226" size="1.016" layer="96" font="vector" ratio="20" align="bottom-center"/>
 </instance>
 <instance part="R1" gate="G$1" x="17.78" y="88.9" smashed="yes" rot="R90">
 <attribute name="NAME" x="16.51" y="93.726" size="1.016" layer="95" font="vector" ratio="20" rot="R180" align="bottom-center"/>
@@ -1670,8 +1672,8 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <segment>
 <pinref part="J6" gate="G$1" pin="6"/>
 <pinref part="GND3" gate="1" pin="GND"/>
-<wire x1="85.09" y1="156.21" x2="78.74" y2="156.21" width="0.1524" layer="91"/>
-<wire x1="78.74" y1="156.21" x2="78.74" y2="137.16" width="0.1524" layer="91"/>
+<wire x1="72.39" y1="140.97" x2="66.04" y2="140.97" width="0.1524" layer="91"/>
+<wire x1="66.04" y1="140.97" x2="66.04" y2="121.92" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <pinref part="U1" gate="A" pin="A0"/>
@@ -1706,8 +1708,8 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <net name="SDA" class="0">
 <segment>
 <pinref part="J5" gate="G$1" pin="5"/>
-<wire x1="46.99" y1="148.59" x2="50.8" y2="148.59" width="0.1524" layer="91"/>
-<label x="50.8" y="148.59" size="1.016" layer="95" font="vector" ratio="20" xref="yes"/>
+<wire x1="34.29" y1="133.35" x2="38.1" y2="133.35" width="0.1524" layer="91"/>
+<label x="38.1" y="133.35" size="1.016" layer="95" font="vector" ratio="20" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U1" gate="A" pin="SDA"/>
@@ -1720,8 +1722,8 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <net name="SCL" class="0">
 <segment>
 <pinref part="J5" gate="G$1" pin="6"/>
-<wire x1="46.99" y1="146.05" x2="50.8" y2="146.05" width="0.1524" layer="91"/>
-<label x="50.8" y="146.05" size="1.016" layer="95" font="vector" ratio="20" xref="yes"/>
+<wire x1="34.29" y1="130.81" x2="38.1" y2="130.81" width="0.1524" layer="91"/>
+<label x="38.1" y="130.81" size="1.016" layer="95" font="vector" ratio="20" xref="yes"/>
 </segment>
 <segment>
 <pinref part="R2" gate="G$1" pin="1"/>
@@ -1734,8 +1736,8 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <net name="INT" class="0">
 <segment>
 <pinref part="J5" gate="G$1" pin="7"/>
-<wire x1="46.99" y1="143.51" x2="50.8" y2="143.51" width="0.1524" layer="91"/>
-<label x="50.8" y="143.51" size="1.016" layer="95" font="vector" ratio="20" xref="yes"/>
+<wire x1="34.29" y1="128.27" x2="38.1" y2="128.27" width="0.1524" layer="91"/>
+<label x="38.1" y="128.27" size="1.016" layer="95" font="vector" ratio="20" xref="yes"/>
 </segment>
 <segment>
 <pinref part="U1" gate="A" pin="OS"/>
@@ -1748,8 +1750,8 @@ Warning: This is the KIT version of this package. This package has a smaller dia
 <net name="3.3V" class="0">
 <segment>
 <pinref part="J6" gate="G$1" pin="5"/>
-<wire x1="85.09" y1="153.67" x2="76.2" y2="153.67" width="0.1524" layer="91"/>
-<wire x1="76.2" y1="153.67" x2="76.2" y2="169.672" width="0.1524" layer="91"/>
+<wire x1="72.39" y1="138.43" x2="63.5" y2="138.43" width="0.1524" layer="91"/>
+<wire x1="63.5" y1="138.43" x2="63.5" y2="154.432" width="0.1524" layer="91"/>
 <pinref part="SUPPLY1" gate="G$1" pin="3.3V"/>
 </segment>
 <segment>
