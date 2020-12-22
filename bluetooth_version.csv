@@ -1,0 +1,18 @@
+"Part";"Value";"Device";"Package";"Description";"ARROW_PART_NUMBER";"ARROW_PRICE-STOCK";"AVAILABILITY";"BUILT_BY";"COPYRIGHT";"DESCRIPTION";"HEIGHT";"MANUFACTURER_NAME";"MANUFACTURER_PART_NUMBER";"MF";"MOUSER_PART_NUMBER";"MOUSER_PRICE-STOCK";"MP";"PACKAGE";"PRICE";"PROD_ID";"PURCHASE-URL";"SF_SKU";"SOURCELIBRARY";"SPICEPREFIX";"VALUE";"VENDOR";
+"BT1";"BK-912";"BK-912";"BAT_BK-912";"BATTERY RETAINER COIN PC PIN Check prices";"";"";"Warning";"";"";" Battery Retainer Coin, 20.0mm 1 Cell SMD (SMT) Tab ";"";"";"";"MPD (Memory";"";"";"BK-912";"DFN-12 Memory Protection Devices";"None";"";"https://pricing.snapeda.com/search/part/BK-912/?ref=eda";"";"";"";"";"";
+"C1";"10nF";"10NF-0603-50V-10%";"0603";"0.01uF/10nF/10,000pF ceramic capacitors";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"CAP-00867";"";"";"";"";"10nF";"";
+"C2";"0.1uF";"0.1UF-0603-25V-(+80/-20%)";"0603";"0.1µF ceramic capacitors";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"CAP-00810";"";"";"";"";"0.1uF";"";
+"C3";"15pF";"15PF-0603-50V-5%";"0603";"15pF ceramic capacitors";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"CAP-07881";"";"";"";"";"15pF";"";
+"D1";"BLUE";"LED-BLUE0603";"LED-0603";"Blue SMD LED";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"DIO-08575";"";"";"";"";"BLUE";"";
+"IC1";"BLUENRG-M2SP";"BLUENRG-M2SP";"BLUENRGM2SP";"STMicroelectronics";"BLUENRG-M2SP";"https://www.arrow.com/en/products/bluenrg-m2sp/stmicroelectronics";"";"";"";"STMicroelectronics";"2.5mm";"STMicroelectronics";"BLUENRG-M2SP";"";"511-BLUENRG-M2SP";"https://www.mouser.co.uk/ProductDetail/STMicroelectronics/BLUENRG-M2SP?qs=%252B6g0mu59x7IAMQd6TX9bOA%3D%3D";"";"";"";"";"";"";"";"";"";"";
+"J1";"";"CONN_05";"1X05";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";
+"J2";"455-1750-1-ND";"CONN_03";"1X03";"Multi connection point. Often used as Generic Header-pin footprint for 0.1 inch spaced/style header connections";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"XXX-00000";"";"";"";"";"455-1750-1-ND";"";
+"R1";"10k";"10KOHM-0603-1/10W-1%";"0603";"10kΩ resistor";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"RES-00824";"";"";"";"";"10k";"";
+"R2";"820";"8.2KOHM-0603-1/10W-5%";"0603";"8.2kΩ resistor";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"RES-10646";"";"";"";"R";"8.2k";"";
+"R3";"47k";"47KOHM-0603-1/10W-1%";"0603";"47kΩ resistor";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"RES-07871";"";"";"";"";"47k";"";
+"R4";"4.7k";"4.7KOHM-0603-1/10W-1%";"0603";"4.7kΩ resistor";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"RES-07857";"";"";"";"";"4.7k";"";
+"R5";"4.7k";"4.7KOHM-0603-1/10W-1%";"0603";"4.7kΩ resistor";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"RES-07857";"";"";"";"";"4.7k";"";
+"R6";"4.7k";"4.7KOHM-0603-1/10W-1%";"0603";"4.7kΩ resistor";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"RES-07857";"";"";"";"";"4.7k";"";
+"S1";"MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM";"MOMENTARY-SWITCH-SPST-SMD-4.6X2.8MM";"TACTILE_SWITCH_SMD_4.6X2.8MM";"Momentary Switch (Pushbutton) - SPST";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"SWCH-13065";"";"";"";"";"";"";
+"S2";"";"SWITCH-SPDT-SMD-RIGHT-ANGLE";"SWITCH_SPST_SMD_A";"Single Pole, Double Throw (SPDT) Switch";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"";"SWCH-10651";"";"COM-10860";"";"";"";"";
+"U1";"MAX30205MTA+T21-0137I_T833-2_MXM-M";"MAX30205MTA+T21-0137I_T833-2_MXM-M";"21-0137I_T833-2_MXM-M";"";"";"";"";"EMA_UL_Team";"Copyright (C) 2018 Accelerated Designs. All rights reserved";"";"";"";"MAX30205MTA+T";"";"";"";"";"";"";"";"";"";"Maxim_2018-11-30";"";"";"Maxim Integrated Products";
